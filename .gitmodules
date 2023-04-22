@@ -1,0 +1,4 @@
+[submodule "packages/widget"]
+	path = packages/widget
+	url = https://github.com/thanhnt-mdev/widget.git
+	branch = master
